@@ -101,3 +101,12 @@ img {
     margin-left: 0;
     margin-left: 0;
 }
+
+.corner-image {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 150px; 
+    height: 55PX; 
+    z-index: 999; 
+}
